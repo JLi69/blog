@@ -5,15 +5,14 @@ title:  "First Post!"
 
 I've decided to create a blog! Here I'll probably share thoughts, projects, and
 interesting things that I find. I'm not sure how often I will post or when
-exactly I will post but hopefully if you end up finding my posts a worthwhile
+exactly I will post but hopefully you end up finding my posts a worthwhile
 read. Also, I plan on customizing the blog in the future to have a custom theme
-and also not have such a generic title ("Blog" is a rather boring name for a 
-blog...) along with a non-default theme. I'm not entirely sure what I want the 
-style of this blog to be and I also don't know what I want the current title to 
-be right now either... I want something creative and unique but at the same time 
-I have trouble naming things ("There are three hard problems in computer science:
-off by one errors, cache invalidation, and naming things"). I'll probably
-eventually figure it out.
+and also have it not have such a generic title ("Blog" is a rather boring name for a 
+blog...). I'm not entirely sure what I want the  style of this blog to be and I 
+also don't know what I want the current title to be right now either... I want 
+something creative and unique but at the same time I have trouble naming things 
+("There are three hard problems in computer science: off by one errors, cache 
+invalidation, and naming things"). I'll probably eventually figure it out.
 
 Anyway, I should probably introduce myself! I am currently in high school and my
 interests include math, physics, and computer science. I am also a ~~failed~~
