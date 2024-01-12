@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playing with dmenu: the creation dmenu_alias & lsapps"
+title:  "Playing with dmenu: the creation of dmenu_alias & lsapps"
 ---
 
 This is a mini-project that I have worked on over the past couple of days to make
