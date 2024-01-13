@@ -1,18 +1,5 @@
 // _sass/custom.scss
 
-.page-heading, .site-title, .post-list-heading, .post-list, .post-meta, .pager,
-.post-content, .post-header, .wrapper, .feed-subscribe, .footer-col, .page-link {
-	color: #ffffff;
-	font-family: "Courier New", monospace;
-	&:visited {
-		color: #ffffff;
-	}
-}
-
-.site-header {
-	border-color: #212121;
-}
-
 body {	
 	background-color: #212121;
 }
@@ -31,7 +18,29 @@ a:hover {
 	color: #FF00AA;
 }
 
+.page-heading, .site-title, .post-list-heading, .post-list, .post-meta, .pager,
+.post-content, .post-header, .wrapper, .feed-subscribe, .footer-col, .page-link,
+.trigger, .site-nav {
+	color: #ffffff !important;
+	font-family: "Courier New", monospace;
+	&:visited {
+		color: #ffffff;
+	}
+}
+
+.site-header {
+	border-color: #212121;
+}
+
 code {
 	background-color: #333;
+	border-color: #333;
+}
+
+.menu-icon, .trigger, .site-nav {
+	background-color: #212121;
+}
+
+.site-nav {
 	border-color: #333;
 }
