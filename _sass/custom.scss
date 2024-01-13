@@ -1,0 +1,37 @@
+// _sass/custom.scss
+
+.page-heading, .site-title, .post-list-heading, .post-list, .post-meta, .pager,
+.post-content, .post-header, .wrapper, .feed-subscribe, .footer-col, .page-link {
+	color: #ffffff;
+	font-family: "Courier New", monospace;
+	&:visited {
+		color: #ffffff;
+	}
+}
+
+.site-header {
+	border-color: #212121;
+}
+
+body {	
+	background-color: #212121;
+}
+
+/* Links to other locations */
+a {
+	font-family: "Courier New", monospace;
+}
+a:link {
+	color: #00CCFF;
+}
+a:visited {
+	color: #0099EE;
+}
+a:hover {
+	color: #FF00AA;
+}
+
+code {
+	background-color: #333;
+	border-color: #333;
+}
