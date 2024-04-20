@@ -3,9 +3,9 @@ layout: post
 title:  "OpenGL Terrain Demo"
 ---
 
-![screenshot](/images/opengl-terrain-demo-img1.png)
+![screenshot](/blog/images/opengl-terrain-demo-img1.png)
 
-![screenshot](/images/opengl-terrain-demo-img2.png)
+![screenshot](/blog/images/opengl-terrain-demo-img2.png)
 
 This is a small demo that I am working on that displays some procedurally
 generated terrain. You can watch the YouTube video demonstrating the demo
