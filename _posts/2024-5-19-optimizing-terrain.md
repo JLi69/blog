@@ -3,7 +3,7 @@ layout: post
 title:  "OpenGL Terrain Demo: Optimizations"
 ---
 
-![screenshot](/blog/images/terrain-optimization1.png)
+![screenshot](/blog/images/terrain-optimization1.jpg)
 
 In my [last post](https://jli69.github.io/blog/2024/05/07/infinite-terrain.html) 
 on this project I implemented infinite terrain generation but unfortunately I
@@ -44,7 +44,7 @@ while also slightly improving performance.
 The following is a screenshot with the range of the highest quality terrain
 being 16 chunks (the default is now 8):
 
-![screenshot](/blog/images/terrain-optimization2.png)
+![screenshot](/blog/images/terrain-optimization2.jpg)
 
 While this proved to be quite effective optimization (probably why it is so
 common in video games) the way I implemented it resulted in artifacts where
