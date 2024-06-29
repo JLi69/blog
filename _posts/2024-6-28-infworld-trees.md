@@ -226,6 +226,11 @@ I am ready to move on to another project (although I likely will be looking to
 reuse the code from this project).
 
 You can download the executable for Windows and Linux 
-[here](https://github.com/JLi69/infworld/releases/tag/demo2).
+[here](https://github.com/JLi69/infworld/releases/tag/demo2.1).
 
 Anyway, that's it, have a nice day.
+
+__EDIT 2024-6-29:__ Okay, it turns out I was a little stupid and found some bugs
+in the original demo 2 (you can still download the bugged version 
+[here](https://github.com/JLi69/infworld/releases/tag/demo2)) but I updated it
+and hopefully those bugs are now squashed.
