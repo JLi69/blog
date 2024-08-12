@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More updates to \"Flight Simulator\" - Now called \"Fight & Flight\"!"
+title: "More updates to \"Flight Simulator\" - Now called \"Flight & Fight\"!"
 ---
 
 ![screenshot](/blog/images/flight-and-fight-screenshot1.jpg)
