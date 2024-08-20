@@ -3,7 +3,7 @@ layout: post
 title: "Birb Games's entry into the 2024 Game Maker's Toolkit Game Jam: \"The Server Must Scale\""
 ---
 
-![screenshot](/images/the-server-must-scale.jpg)
+![screenshot](/blog/images/the-server-must-scale.jpg)
 
 Over the course of about 96 hours, two my friends 
 ([cfinn](https://github.com/cfinn68916) and [gldeA](https://github.com/gldeA))
