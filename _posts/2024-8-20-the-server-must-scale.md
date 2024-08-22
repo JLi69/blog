@@ -29,6 +29,6 @@ just fine for now.
 Like with [Birb Run](https://nullptr-error.itch.io/birb-run) we used Godot as our
 game engine and we built the game using GDScript. If you want, you can browse the
 source code [here](https://github.com/Birb-Games/the-server-must-scale) and you
-can play/download the game [on itch.io](https://itch.io/the-server-must-scale).
+can play/download the game [on itch.io](https://nullptr-error.itch.io/the-server-must-scale).
 
 Anyway, that's it, have a nice day!
