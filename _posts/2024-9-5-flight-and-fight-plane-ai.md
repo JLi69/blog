@@ -3,7 +3,7 @@ layout: post
 title: "How does the enemy plane AI work in Flight & Fight?"
 ---
 
-![screenshot](/images/enemyplane.jpg)
+![screenshot](/blog/images/enemyplane.jpg)
 
 A screenshot of blender open with the plane model textured with the enemy plane
 texture.
