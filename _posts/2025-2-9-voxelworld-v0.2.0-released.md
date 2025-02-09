@@ -3,11 +3,11 @@ layout: post
 title:  "Voxelworld v0.2.0 is now released!"
 ---
 
-![screenshot](/images/voxelworld-v0.2.0-1.jpg)
+![screenshot](/blog/images/voxelworld-v0.2.0-1.jpg)
 
 A small sample of the new blocks added in this update.
 
-![screenshot](/images/voxelworld-v0.2.0-2.jpg)
+![screenshot](/blog/images/voxelworld-v0.2.0-2.jpg)
 
 A screenshot of all the slabs in the block selection menu.
 
