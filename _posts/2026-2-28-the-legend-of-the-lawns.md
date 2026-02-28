@@ -7,7 +7,7 @@ title:  "The Legend of the Lawns: What's Next?"
 
 The thumbnail that I made for [a gameplay video on YouTube](https://www.youtube.com/watch?v=EXcu8_R3Tdw).
 
-It's been a couple months since I've lasted posted on this blog. So as a few
+It's been a couple months since I've last posted on this blog. So as a few
 quick updates on general things that I've been working on, I've finished my
 first semester of university which feels really nice, I had a pretty relaxing
 winter break in which I was able to get quite a bit done for my current project
