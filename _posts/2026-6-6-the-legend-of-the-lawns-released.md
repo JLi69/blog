@@ -3,7 +3,7 @@ layout: post
 title:  "The Legend of the Lawns is now fully released!"
 ---
 
-![screenshot](/images/lotl_release.jpg)
+![screenshot](/blog/images/lotl_release.jpg)
 
 After a year of development, the official full release for *The Legend of the Lawns*
 is now available! It feels good to finally finish this project and be able to share
